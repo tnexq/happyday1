@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #dbbab5;
+    text-align: center;
+    padding: 40px;
+    border-bottom: 5px solid #801818;
+}
+
+h1 {
+    color: #801818;
+    font-size: 2.2em;
+}
+
+h2 {
+    color: #801818;
+}
+
+.p {
+    color: #801818;
+    font-weight: bold;
+}
+
+li{
+    color: #801818;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+.birthday-message {
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.birthday-images {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.birthday-images img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.fun-facts {
+    background-color: #e7f3fe;
+    border: 1px solid #801818;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #dbbab5;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
